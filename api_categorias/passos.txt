@@ -1,9 +1,0 @@
-Criação do projeto
-
-Instalação de dependências:
- - npm install
-
-------------------- // --------------------
-
-Rodar o código:
- - npm start
