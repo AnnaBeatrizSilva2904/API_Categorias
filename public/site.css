@@ -6,7 +6,8 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url("fundo2.avif");
+    background-image: url("fundo.jpg");
+    background-position: center center;
   }
   
   .container {

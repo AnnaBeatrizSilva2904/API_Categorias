@@ -1,9 +1,16 @@
-Criação do projeto
+Configuração da conta local do GIT:
+git config --global user.name AnnaBeatrizSilva2904
+git config --global user.email annabeatryz2504@gmail.com
+
+-------------------------- // ----------------------------
+
+Criação do projeto:
 
 Instalação de dependências:
- - npm install
+- npm install
 
-------------------- // --------------------
-
+Entrar na pasta do projeto:
+- cd public
+    
 Rodar o código:
- - npm start
+- npm start
