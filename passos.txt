@@ -4,8 +4,6 @@ git config --global user.email annabeatryz2504@gmail.com
 
 -------------------------- // ----------------------------
 
-Criação do projeto:
-
 Instalação de dependências:
 - npm install
 
