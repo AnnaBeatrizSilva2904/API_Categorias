@@ -4,11 +4,16 @@ git config --global user.email annabeatryz2504@gmail.com
 
 -------------------------- // ----------------------------
 
-Instalação de dependências:
-- npm install
+Criação do projeto:
 
-Entrar na pasta do projeto:
-- cd public
-    
-Rodar o código:
-- npm start
+ Intalações de dependências:
+ - npm install (fazer esse comando no terminal do VScode)
+
+ Banco de Dados:
+ - Abrir o XAMPP e ativar o MySQL
+ - copiar o banco de dados no MySQL Workbench
+ - executar o banco de dados
+
+ Terminal:
+ - entrar na pasta do projeto "cd public"
+ - digitar "npm start" no terminal para rodar o código
